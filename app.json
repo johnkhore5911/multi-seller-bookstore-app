@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "MultiSellerBookstore",
+    "slug": "MultiSellerBookstore",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/multi-seller.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.johnnykhore.MultiSellerBookstore"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "905053a8-bb94-4320-873b-7345522bf422"
+      }
+    }
+  }
+}
